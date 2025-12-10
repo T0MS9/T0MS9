@@ -1,5 +1,5 @@
 <h1 align="center">Howdy, I'm T0MS ⛧</h1>
-<h3 align="center">A Game Developer & Music Producer on the internet.</h3>
+<h3 align="center">A Unity Game Developer, Music Producer & Content Creator on the internet.</h3>
 
 - I’m currently working on [Neglect & Other Projects](https://t0ms9.itch.io/neglect-alpha)
 
