@@ -1,9 +1,9 @@
 <h1 align="center">Howdy, I'm T0MS ⛧</h1>
 <h3 align="center">A Game Developer & Music Producer on the internet.</h3>
 
-<p align="left"> <a href="https://twitter.com/t0ms9" target="blank"><img src="https://img.shields.io/twitter/follow/t0ms9?logo=twitter&style=for-the-badge" alt="t0ms9" /></a> </p>
-
 - I’m currently working on [Neglect & Other Projects](https://t0ms9.itch.io/neglect-alpha)
+
+- You can contact me at **tomasmbbolas07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
