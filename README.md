@@ -5,6 +5,8 @@
 
 - You can contact me at **tomasmbbolas07@gmail.com**
 
+- Profile Picture by: [fuzzsux](https://www.instagram.com/p/DRhjY_ljQqF/?img_index=1)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/t0ms9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="t0ms9" height="30" width="40" /></a>
